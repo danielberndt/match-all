@@ -1,0 +1,17 @@
+{
+  "name": "@danielberndt/match-all",
+  "version": "1.0.0",
+  "description": "return all regexp-match objects for a string",
+  "main": "index.js",
+  "author": "Daniel Berndt <daniel.berndt@gmail.com> (http://danielberndt.net/)",
+  "license": "ISC",
+  "repository": "danielberndt/match-all",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "files": ["index.js", "index.d.ts"],
+  "types": "index.d.ts",
+  "devDependencies": {
+    "eslint": "^4.14.0"
+  }
+}
